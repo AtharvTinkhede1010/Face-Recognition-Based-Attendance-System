@@ -22,17 +22,6 @@ bash
 Copy code
 pip install opencv-python dlib numpy face_recognition Pillow
 Installation
-Clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/face-attendance-system.git
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Ensure you have a working webcam connected to your system for real-time facial recognition.
 
 Usage
 1. Register Student
